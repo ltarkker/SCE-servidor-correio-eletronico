@@ -15,7 +15,7 @@
 | **Semestre** | 3.º Semestre |
 | **Ano letivo** | 2024 / 2025 |
 | **Aluno** | Gonçalo Lopes Fernandes · Nº 2022148 |
-| **Nota Final** | Previsão de publicação final de curso em junho de 2026 |
+| **Nota Final** | 18 valores
 
 ---
 
